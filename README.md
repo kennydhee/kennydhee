@@ -1,3 +1,5 @@
+Hello there; welcome 👋🏾
+
 I’m an aspiring Software Engineer based in Lagos Nigeria.
 
 Here's a quick summary about me:

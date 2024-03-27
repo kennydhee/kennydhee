@@ -10,5 +10,5 @@ Here's a quick summary about me:
 - 🌱 Some of my skills: Python, HTML5, CSS, JavaScript, Postman, Selenium, JMeter, JIRA, Zephyr, Microsoft SQL Server.
 - 😊 I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities on software development.
 - 💼 Job interests: Software Engineer, BackEnd Engineer, Quantum Computing Engineer, or FrontEnd Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing kehindeoladipoogundipe@gmail.com.
+- 📫 You can contact me by emailing kehindeoogundipe@gmail.com.
 -->
